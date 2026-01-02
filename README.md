@@ -37,11 +37,14 @@
 
 ---
 
-## 🌱 Currently Learning
+🔭 Currently learning:
+- Python for data analysis
+- Statistics & exploratory data analysis
+- SQL basics
 
-* Data cleaning & EDA
-* SQL joins and subqueries
-* Data storytelling and dashboards
+📌 Goal:
+Build strong practical skills and a solid data analytics portfolio.
+
 
 ---
 
