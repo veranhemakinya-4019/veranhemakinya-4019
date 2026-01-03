@@ -1,49 +1,50 @@
-## 👋 Hi, I'm Vera Nhema Kinya
+# 👋 Hi, I'm Vera Nhema Kinya
 
-🎓 BSc. Applied Statistics with IT  
-📊 Aspiring Data Analyst | Python • SQL • Excel • Data Visualization  
-📍 Kenya 🇰🇪  
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Active-green)
 
-I’m building strong foundations in **data analysis, statistics, and programming**, with a focus on:
-- Cleaning and analyzing data
-- Writing clear, reusable Python code
-- Turning data into insights using visuals and summaries
+🎓 BSc. Applied Statistics with IT | Kenya 🇰🇪  
+💼 Data Analyst | Turning data into actionable insights using Python, SQL & Excel  
+💡 Passionate about analyzing data, solving problems, and creating meaningful visualizations to support data-driven decisions.
 
 ---
 
 ### 🔧 Skills & Tools
-- **Languages:** Python, SQL  
-- **Data Tools:** Excel, Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn  
-- **Other:** Git, GitHub, Jupyter Notebook  
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, Excel  
+- **Visualization:** Matplotlib, Seaborn, Excel charts  
+- **Other Tools:** Git, GitHub, Jupyter Notebook
 
 ---
 
 ### 📌 Featured Projects
-- 🐍 **Python Basics Practice**  
-  Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.
+- **[Python Basics Practice](https://github.com/veranhemakinya-4019/python-basics-practice)**  
+  Beginner-friendly Python scripts covering loops, functions, lists, dictionaries, and conditional statements.  
+  *Focus:* Strengthen Python fundamentals for real-world data analysis tasks.
 
-- 📊 **Python Data Analysis Projects**  
-  Hands-on data analysis using real datasets (cleaning, exploration, visualization).
+- **[Python Data Analysis Projects](https://github.com/veranhemakinya-4019/python-data-analysis-projects)**  
+  Hands-on data cleaning, exploration, and visualization using real datasets.  
+  *Focus:* Turning raw data into actionable insights.
 
-- 📈 **Statistics for Data Analysis**  
-  Practical statistics concepts applied to data problems.
+- **[Statistics for Data Analysis](https://github.com/veranhemakinya-4019/statistics-for-data-analysis)**  
+  Applying statistical methods to solve real-world data problems.  
+  *Focus:* Linking theory to practice in data-driven decision-making.
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced Pandas & data cleaning techniques  
-- SQL for data analysis  
-- Exploratory Data Analysis (EDA)
+- Advanced Pandas techniques for data cleaning  
+- SQL for querying large datasets efficiently  
+- Exploratory Data Analysis (EDA) & storytelling with data visualizations
 
 ---
 
-### 📫 Let’s Connect
-- 📧 Email: **veranhemakinya@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/vera-data-analyst](https://linkedin.com/in/vera-data-analyst)
-- 💬 Telegram: https://t.me/vera_Data_analyst
+### 📫 Connect with Me
+- 📧 Email: **veranhemakinya@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/vera-data-analyst](https://linkedin.com/in/vera-data-analyst)  
+- 💬 Telegram: [https://t.me/vera_Data_analyst](https://t.me/vera_Data_analyst)  
 - 🐦 X (Twitter): **@veranhema**
 
-⭐ *This GitHub documents my learning journey and continuous improvement in data analytics.*
+---
 
-
+⭐ *This GitHub documents my learning journey and showcases practical projects for data analysis. Consistently improving skills to become a professional data analyst.*
