@@ -45,3 +45,5 @@ I’m building strong foundations in **data analysis, statistics, and programmin
 - 🐦 X (Twitter): **@veranhema**
 
 ⭐ *This GitHub documents my learning journey and continuous improvement in data analytics.*
+
+
