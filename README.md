@@ -1,124 +1,70 @@
 # 👋 Hi, I'm Vera Nhema Kinya
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Active-green)
-
 🎓 BSc. Applied Statistics with IT | Kenya 🇰🇪  
-💼 Data Analyst | Turning data into actionable insights using Python, SQL & Excel  
-💡 Passionate about analyzing data, solving problems, and creating meaningful visualizations to support data-driven decisions.
+💼 Junior Data Analyst | Python • SQL • Excel  
+📊 Turning data into actionable insights through analysis, statistics, and visualization.
 
 ---
 
-#🔧 Skills & Tools
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Excel
-- **Visualization:** Matplotlib, Seaborn, Excel Charts
-- **Other:** Git, GitHub, Jupyter Notebook
-
-
----
-
-📌 Featured Projects
-
-🔹 **Python Basics Practice**
-Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
-**Focus:** Strong Python foundations for data analysis  
-👉 Repo: python-basics-practice
-
-🔹 **Python Data Analysis Projects**
-Hands-on data cleaning, exploration, and visualization using real datasets.  
-**Focus:** Turning raw data into actionable insights  
-
-🔹 **Statistics for Data Analysis**
-Applying statistical methods to real-world data problems.  
-**Focus:** Linking theory to practice
-📌 Featured Projects
-
-🔹 **Python Basics Practice**
-Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
-**Focus:** Strong Python foundations for data analysis  
-👉 Repo: python-basics-practice
-
-🔹 **Python Data Analysis Projects**
-Hands-on data cleaning, exploration, and visualization using real datasets.  
-**Focus:** Turning raw data into actionable insights  
-
-🔹 **Statistics for Data Analysis**
-Applying statistical methods to real-world data problems.  
-**Focus:** Linking theory to practice
-📌 Featured Projects
-
-🔹 **Python Basics Practice**
-Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
-**Focus:** Strong Python foundations for data analysis  
-👉 Repo: python-basics-practice
-
-🔹 **Python Data Analysis Projects**
-Hands-on data cleaning, exploration, and visualization using real datasets.  
-**Focus:** Turning raw data into actionable insights  
-
-🔹 **Statistics for Data Analysis**
-Applying statistical methods to real-world data problems.  
-**Focus:** Linking theory to practice
-📌 Featured Projects
-
-🔹 **Python Basics Practice**
-Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
-**Focus:** Strong Python foundations for data analysis  
-👉 Repo: python-basics-practice
-
-🔹 **Python Data Analysis Projects**
-Hands-on data cleaning, exploration, and visualization using real datasets.  
-**Focus:** Turning raw data into actionable insights  
-
-🔹 **Statistics for Data Analysis**
-Applying statistical methods to real-world data problems.  
-**Focus:** Linking theory to practice
-📌 Featured Projects
-
-🔹 **Python Basics Practice**
-Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
-**Focus:** Strong Python foundations for data analysis  
-👉 Repo: python-basics-practice
-
-🔹 **Python Data Analysis Projects**
-Hands-on data cleaning, exploration, and visualization using real datasets.  
-**Focus:** Turning raw data into actionable insights  
-
-🔹 **Statistics for Data Analysis**
-Applying statistical methods to real-world data problems.  
-**Focus:** Linking theory to practice
-📌 Featured Projects
-
-🔹 **Python Basics Practice**
-Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
-**Focus:** Strong Python foundations for data analysis  
-👉 Repo: python-basics-practice
-
-🔹 **Python Data Analysis Projects**
-Hands-on data cleaning, exploration, and visualization using real datasets.  
-**Focus:** Turning raw data into actionable insights  
-
-🔹 **Statistics for Data Analysis**
-Applying statistical methods to real-world data problems.  
-**Focus:** Linking theory to practice
-
+## 🔧 Skills & Tools
+**Programming:** Python, SQL  
+**Data Analysis:** Pandas, NumPy, Excel  
+**Visualization:** Matplotlib, Seaborn, Excel Charts  
+**Other Tools:** Git, GitHub, Jupyter Notebook  
 
 ---
 
-### 🌱 Currently Learning
+## 📌 Featured Projects
+
+### 🔹 Python Basics Practice
+Beginner-friendly Python scripts covering loops, functions, lists, dictionaries, and conditionals.  
+**Focus:** Strong Python foundations for data analysis  
+👉 Repo: `python-basics-practice`
+
+---
+
+### 🔹 Python Data Cleaning Project
+Cleaning and preparing messy, real-world datasets using pandas.  
+**Focus:** Data quality, preprocessing, and analysis-ready datasets  
+👉 Repo: `python-data-cleaning-project`
+
+---
+
+### 🔹 Python Data Analysis Projects
+Exploratory data analysis, summary statistics, and visualizations using real datasets.  
+**Focus:** Turning cleaned data into actionable insights  
+👉 Repo: `python-data-analysis-projects`
+
+---
+
+### 🔹 Excel Sales Data Analysis
+Sales analysis using Microsoft Excel to uncover trends and performance insights.  
+**Focus:** Business reporting and decision support  
+👉 Repo: `excel-sales-data-analysis`
+
+---
+
+### 🔹 SQL Data Analysis Practice
+SQL queries and practice projects covering filtering, aggregation, joins, and business questions.  
+**Focus:** Data retrieval and analysis using SQL  
+👉 Repo: `sql-data-analysis-practice`
+
+---
+
+## 🌱 Currently Learning
 - Advanced Pandas techniques for data cleaning  
-- SQL for querying large datasets efficiently  
-- Exploratory Data Analysis (EDA) & storytelling with data visualizations
+- SQL for querying large datasets  
+- Exploratory Data Analysis (EDA) & data storytelling  
 
 ---
 
-### 📫 Connect with Me
-- 📧 Email: **veranhemakinya@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/vera-data-analyst](https://linkedin.com/in/vera-data-analyst)  
-- 💬 Telegram: [https://t.me/vera_Data_analyst](https://t.me/vera_Data_analyst)  
-- 🐦 X (Twitter): **@veranhema**
+## 📫 Connect with Me
+📧 Email: veranhemakinya@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/vera-data-analyst  
+💬 Telegram: https://t.me/vera_Data_analyst  
+🐦 X (Twitter): @veranhema  
 
 ---
 
-⭐ *This GitHub documents my learning journey and showcases practical projects for data analysis. Consistently improving skills to become a professional data analyst.*
+⭐ This GitHub documents my learning journey and showcases practical projects aligned with entry-level data analyst roles.
+ly improving skills to become a professional data analyst.*
