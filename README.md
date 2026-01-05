@@ -51,10 +51,11 @@ SQL queries and practice projects covering filtering, aggregation, joins, and bu
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Pandas techniques for data cleaning  
-- SQL for querying large datasets  
-- Exploratory Data Analysis (EDA) & data storytelling  
+🌱 Currently Learning
+Advanced Pandas for data cleaning
+SQL for analytics use cases
+EDA & data storytelling
+
 
 ---
 
@@ -67,4 +68,4 @@ SQL queries and practice projects covering filtering, aggregation, joins, and bu
 ---
 
 ⭐ This GitHub documents my learning journey and showcases practical projects aligned with entry-level data analyst roles.
-ly improving skills to become a professional data analyst.*
+
