@@ -9,26 +9,100 @@
 
 ---
 
-### 🔧 Skills & Tools
-- **Programming:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy, Excel  
-- **Visualization:** Matplotlib, Seaborn, Excel charts  
-- **Other Tools:** Git, GitHub, Jupyter Notebook
+#🔧 Skills & Tools
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Visualization:** Matplotlib, Seaborn, Excel Charts
+- **Other:** Git, GitHub, Jupyter Notebook
+
 
 ---
 
-### 📌 Featured Projects
-- **[Python Basics Practice](https://github.com/veranhemakinya-4019/python-basics-practice)**  
-  Beginner-friendly Python scripts covering loops, functions, lists, dictionaries, and conditional statements.  
-  *Focus:* Strengthen Python fundamentals for real-world data analysis tasks.
+📌 Featured Projects
 
-- **[Python Data Analysis Projects](https://github.com/veranhemakinya-4019/python-data-analysis-projects)**  
-  Hands-on data cleaning, exploration, and visualization using real datasets.  
-  *Focus:* Turning raw data into actionable insights.
+🔹 **Python Basics Practice**
+Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
+**Focus:** Strong Python foundations for data analysis  
+👉 Repo: python-basics-practice
 
-- **[Statistics for Data Analysis](https://github.com/veranhemakinya-4019/statistics-for-data-analysis)**  
-  Applying statistical methods to solve real-world data problems.  
-  *Focus:* Linking theory to practice in data-driven decision-making.
+🔹 **Python Data Analysis Projects**
+Hands-on data cleaning, exploration, and visualization using real datasets.  
+**Focus:** Turning raw data into actionable insights  
+
+🔹 **Statistics for Data Analysis**
+Applying statistical methods to real-world data problems.  
+**Focus:** Linking theory to practice
+📌 Featured Projects
+
+🔹 **Python Basics Practice**
+Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
+**Focus:** Strong Python foundations for data analysis  
+👉 Repo: python-basics-practice
+
+🔹 **Python Data Analysis Projects**
+Hands-on data cleaning, exploration, and visualization using real datasets.  
+**Focus:** Turning raw data into actionable insights  
+
+🔹 **Statistics for Data Analysis**
+Applying statistical methods to real-world data problems.  
+**Focus:** Linking theory to practice
+📌 Featured Projects
+
+🔹 **Python Basics Practice**
+Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
+**Focus:** Strong Python foundations for data analysis  
+👉 Repo: python-basics-practice
+
+🔹 **Python Data Analysis Projects**
+Hands-on data cleaning, exploration, and visualization using real datasets.  
+**Focus:** Turning raw data into actionable insights  
+
+🔹 **Statistics for Data Analysis**
+Applying statistical methods to real-world data problems.  
+**Focus:** Linking theory to practice
+📌 Featured Projects
+
+🔹 **Python Basics Practice**
+Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
+**Focus:** Strong Python foundations for data analysis  
+👉 Repo: python-basics-practice
+
+🔹 **Python Data Analysis Projects**
+Hands-on data cleaning, exploration, and visualization using real datasets.  
+**Focus:** Turning raw data into actionable insights  
+
+🔹 **Statistics for Data Analysis**
+Applying statistical methods to real-world data problems.  
+**Focus:** Linking theory to practice
+📌 Featured Projects
+
+🔹 **Python Basics Practice**
+Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
+**Focus:** Strong Python foundations for data analysis  
+👉 Repo: python-basics-practice
+
+🔹 **Python Data Analysis Projects**
+Hands-on data cleaning, exploration, and visualization using real datasets.  
+**Focus:** Turning raw data into actionable insights  
+
+🔹 **Statistics for Data Analysis**
+Applying statistical methods to real-world data problems.  
+**Focus:** Linking theory to practice
+📌 Featured Projects
+
+🔹 **Python Basics Practice**
+Beginner-friendly scripts covering loops, functions, lists, dictionaries, and conditionals.  
+**Focus:** Strong Python foundations for data analysis  
+👉 Repo: python-basics-practice
+
+🔹 **Python Data Analysis Projects**
+Hands-on data cleaning, exploration, and visualization using real datasets.  
+**Focus:** Turning raw data into actionable insights  
+
+🔹 **Statistics for Data Analysis**
+Applying statistical methods to real-world data problems.  
+**Focus:** Linking theory to practice
+
 
 ---
 
