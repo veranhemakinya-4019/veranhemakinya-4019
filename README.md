@@ -1,3 +1,14 @@
+## 🚀 Portfolio Summary (30-Second Read)
+
+I am a Junior Data Analyst with a strong foundation in Applied Statistics and IT.  
+My portfolio demonstrates hands-on experience in:
+- Cleaning and preparing real-world datasets
+- Performing exploratory data analysis (EDA)
+- Writing SQL queries to answer business questions
+- Creating clear visualizations and Excel reports
+- Translating data into actionable insights
+
+All projects follow a practical, job-oriented data analysis workflow.
 # 👋 Hi, I'm Vera Nhema Kinya
 
 🎓 **BSc. Applied Statistics with IT**  
