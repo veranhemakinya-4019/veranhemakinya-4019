@@ -1,71 +1,136 @@
 # 👋 Hi, I'm Vera Nhema Kinya
 
-🎓 BSc. Applied Statistics with IT | Kenya 🇰🇪  
-💼 Junior Data Analyst | Python • SQL • Excel  
-📊 Turning data into actionable insights through analysis, statistics, and visualization.
+🎓 **BSc. Applied Statistics with IT**  
+💼 **Junior Data Analyst | Python • SQL • Excel**  
+📍 Kenya 🇰🇪  
+
+📊 I transform raw, messy data into clear and actionable insights using Python, SQL, Excel, and statistical analysis — with a strong focus on data cleaning, exploratory data analysis (EDA), and business reporting.
 
 ---
 
 ## 🔧 Skills & Tools
-**Programming:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, Excel  
-**Visualization:** Matplotlib, Seaborn, Excel Charts  
-**Other Tools:** Git, GitHub, Jupyter Notebook  
+
+- **Programming & Querying:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, Excel  
+- **Visualization & Reporting:** Matplotlib, Seaborn, Excel Charts  
+- **Statistics:** Descriptive statistics, probability, analytical thinking  
+- **Workflow & Version Control:** Git, GitHub, Jupyter Notebook  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Mini Case Studies)
 
 ### 🔹 Python Basics Practice
-Beginner-friendly Python scripts covering loops, functions, lists, dictionaries, and conditionals.  
-**Focus:** Strong Python foundations for data analysis  
-👉 Repo: `python-basics-practice`
+**Problem:** Strengthen core programming skills required for data analysis.  
+**Approach & Tools:**  
+- Python scripts covering loops, functions, conditionals, lists, and dictionaries  
+- Emphasis on logic building and clean code  
+
+**Outcome:**  
+- Built a solid Python foundation for data analysis and automation  
+- Improved problem-solving and code readability  
+
+👉 **Repository:** `python-basics-practice`
 
 ---
 
 ### 🔹 Python Data Cleaning Project
-Cleaning and preparing messy, real-world datasets using pandas.  
-**Focus:** Data quality, preprocessing, and analysis-ready datasets  
-👉 Repo: `python-data-cleaning-project`
+**Problem:** Real-world datasets often contain missing values, duplicates, and inconsistencies.  
+**Approach & Tools:**  
+- Used Pandas to clean raw datasets  
+- Handled missing values, duplicates, incorrect data types, and formatting issues  
+
+**Outcome:**  
+- Produced clean, analysis-ready datasets  
+- Demonstrated strong data preprocessing and quality assurance skills  
+
+👉 **Repository:** `python-data-cleaning-project`
 
 ---
 
 ### 🔹 Python Data Analysis Projects
-Exploratory data analysis, summary statistics, and visualizations using real datasets.  
-**Focus:** Turning cleaned data into actionable insights  
-👉 Repo: `python-data-analysis-projects`
+**Problem:** Raw data provides little value without structured analysis and interpretation.  
+**Approach & Tools:**  
+- Conducted exploratory data analysis (EDA) using Pandas and NumPy  
+- Generated summary statistics and insights  
+- Created visualizations using Matplotlib and Seaborn  
+
+**Outcome:**  
+- Identified patterns, trends, and insights from real-world datasets  
+- Translated data findings into actionable conclusions  
+
+👉 **Repository:** `python-data-analysis-projects`
 
 ---
 
 ### 🔹 Excel Sales Data Analysis
-Sales analysis using Microsoft Excel to uncover trends and performance insights.  
-**Focus:** Business reporting and decision support  
-👉 Repo: `excel-sales-data-analysis`
+**Problem:** Businesses need clear performance insights from sales data.  
+**Approach & Tools:**  
+- Cleaned and organized sales data in Microsoft Excel  
+- Used formulas, pivot tables, and charts for analysis  
+
+**Outcome:**  
+- Identified sales trends and performance metrics  
+- Created simple, business-friendly reports to support decision-making  
+
+👉 **Repository:** `excel-sales-data-analysis`
 
 ---
 
 ### 🔹 SQL Data Analysis Practice
-SQL queries and practice projects covering filtering, aggregation, joins, and business questions.  
-**Focus:** Data retrieval and analysis using SQL  
-👉 Repo: `sql-data-analysis-practice`
+**Problem:** Answering business questions efficiently requires strong data querying skills.  
+**Approach & Tools:**  
+- Wrote SQL queries using filtering, joins, aggregations, and grouping  
+- Simulated real business questions and reporting needs  
+
+**Outcome:**  
+- Retrieved meaningful insights directly from databases  
+- Demonstrated practical SQL skills for analytics use cases  
+
+👉 **Repository:** `sql-data-analysis-practice`
 
 ---
 
-🌱 Currently Learning
-Advanced Pandas for data cleaning
-SQL for analytics use cases
-EDA & data storytelling
+### 🔹 Statistics for Data Analysis
+**Problem:** Data-driven decisions require strong statistical understanding.  
+**Approach & Tools:**  
+- Applied descriptive statistics and probability concepts  
+- Used statistical thinking to interpret datasets  
 
+**Outcome:**  
+- Strengthened ability to explain data patterns logically  
+- Enhanced analytical reasoning for data analysis projects  
 
----
-
-## 📫 Connect with Me
-📧 Email: veranhemakinya@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/vera-data-analyst  
-💬 Telegram: https://t.me/vera_Data_analyst  
-🐦 X (Twitter): @veranhema  
+👉 **Repository:** `statistics-for-data-analysis`
 
 ---
 
-⭐ This GitHub documents my learning journey and showcases practical projects aligned with entry-level data analyst roles.
+## 💡 What I Can Do
 
+- Clean and preprocess messy datasets for analysis  
+- Perform exploratory data analysis (EDA) and statistical summaries  
+- Write SQL queries to answer real business questions  
+- Create clear visualizations and reports for decision-making  
+- Translate data findings into actionable insights  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Pandas for efficient data cleaning  
+- SQL for analytics and reporting use cases  
+- Exploratory Data Analysis (EDA) techniques  
+- Data storytelling and insight communication  
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** veranhemakinya@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/vera-data-analyst  
+💬 **Telegram:** https://t.me/vera_Data_analyst  
+🐦 **X (Twitter):** @veranhema  
+
+---
+
+⭐ This GitHub profile documents my learning journey and showcases practical projects aligned with **entry-level and junior data analyst roles**.
