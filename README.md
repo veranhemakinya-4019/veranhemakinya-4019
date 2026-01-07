@@ -118,21 +118,21 @@ All projects follow a practical, job-oriented data analysis workflow.
 
 ## 💡 What I Can Do
 
-- Clean and preprocess messy datasets for analysis  
-- Perform exploratory data analysis (EDA) and statistical summaries  
-- Write SQL queries to answer real business questions  
-- Create clear visualizations and reports for decision-making  
-- Translate data findings into actionable insights  
+- Cleaning and preparing real-world datasets
+- Performing exploratory data analysis (EDA)  
+- Writing SQL queries to answer business questions  
+- Creating clear visualizations and Excel reports    
+- Translating data into actionable insights  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Pandas for efficient data cleaning  
-- SQL for analytics and reporting use cases  
-- Exploratory Data Analysis (EDA) techniques  
-- Data storytelling and insight communication  
-
+- Cleaning and preparing real-world datasets
+- Performing exploratory data analysis (EDA) 
+- Writing SQL queries to answer business questions 
+- Creating clear visualizations and Excel reports  
+- Translating data into actionable insights  
 ---
 
 ## 📫 Connect With Me
