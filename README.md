@@ -128,11 +128,9 @@ All projects follow a practical, job-oriented data analysis workflow.
 
 ## 🌱 Currently Learning
 
-- Cleaning and preparing real-world datasets
-- Performing exploratory data analysis (EDA) 
-- Writing SQL queries to answer business questions 
-- Creating clear visualizations and Excel reports  
-- Translating data into actionable insights  
+- Advanced SQL (CTEs, window functions) 
+- Business-focused dashboard design 
+- Statistical analysis for real-world decision-making  
 ---
 
 ## 📫 Connect With Me
