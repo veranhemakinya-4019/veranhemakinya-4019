@@ -31,17 +31,18 @@ All projects follow a practical, job-oriented data analysis workflow.
 
 ## 📌 Featured Projects (Mini Case Studies)
 
-### 🔹 Python Basics Practice
-**Problem:** Strengthen core programming skills required for data analysis.  
+### 🔹 Python Data Analysis Projects
+**Problem:** Raw data provides little value without structured analysis and interpretation.  
 **Approach & Tools:**  
-- Python scripts covering loops, functions, conditionals, lists, and dictionaries  
-- Emphasis on logic building and clean code  
+- Conducted exploratory data analysis (EDA) using Pandas and NumPy  
+- Generated summary statistics and insights  
+- Created visualizations using Matplotlib and Seaborn  
 
 **Outcome:**  
-- Built a solid Python foundation for data analysis and automation  
-- Improved problem-solving and code readability  
+- Identified patterns, trends, and insights from real-world datasets  
+- Translated data findings into actionable conclusions  
 
-👉 **Repository:** `python-basics-practice`
+👉 **Repository:** `python-data-analysis-projects`
 
 ---
 
@@ -59,35 +60,6 @@ All projects follow a practical, job-oriented data analysis workflow.
 
 ---
 
-### 🔹 Python Data Analysis Projects
-**Problem:** Raw data provides little value without structured analysis and interpretation.  
-**Approach & Tools:**  
-- Conducted exploratory data analysis (EDA) using Pandas and NumPy  
-- Generated summary statistics and insights  
-- Created visualizations using Matplotlib and Seaborn  
-
-**Outcome:**  
-- Identified patterns, trends, and insights from real-world datasets  
-- Translated data findings into actionable conclusions  
-
-👉 **Repository:** `python-data-analysis-projects`
-
----
-
-### 🔹 Excel Sales Data Analysis
-**Problem:** Businesses need clear performance insights from sales data.  
-**Approach & Tools:**  
-- Cleaned and organized sales data in Microsoft Excel  
-- Used formulas, pivot tables, and charts for analysis  
-
-**Outcome:**  
-- Identified sales trends and performance metrics  
-- Created simple, business-friendly reports to support decision-making  
-
-👉 **Repository:** `excel-sales-data-analysis`
-
----
-
 ### 🔹 SQL Data Analysis Practice
 **Problem:** Answering business questions efficiently requires strong data querying skills.  
 **Approach & Tools:**  
@@ -99,20 +71,6 @@ All projects follow a practical, job-oriented data analysis workflow.
 - Demonstrated practical SQL skills for analytics use cases  
 
 👉 **Repository:** `sql-data-analysis-practice`
-
----
-
-### 🔹 Statistics for Data Analysis
-**Problem:** Data-driven decisions require strong statistical understanding.  
-**Approach & Tools:**  
-- Applied descriptive statistics and probability concepts  
-- Used statistical thinking to interpret datasets  
-
-**Outcome:**  
-- Strengthened ability to explain data patterns logically  
-- Enhanced analytical reasoning for data analysis projects  
-
-👉 **Repository:** `statistics-for-data-analysis`
 
 ---
 
