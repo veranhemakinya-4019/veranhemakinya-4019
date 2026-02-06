@@ -1,8 +1,7 @@
 # Vera Nhema Kinya  
 **Junior Data Analyst | Python • SQL • Excel**  
-📊 Data Cleaning • Analysis • Visualization  
-🎯 Open to Junior Data Analyst, Data Assistant & Graduate Analyst roles  
-
+📊 Data Cleaning, Analysis & Visualization  
+🎯 Open to Junior Data Analyst, Data Assistant & Graduate Analyst roles
 ---
 
 ## 🚀 Portfolio Summary (30-Second Read)
@@ -25,30 +24,33 @@ All projects follow a **practical, job-oriented data analysis workflow**.
 🎓 **BSc. Applied Statistics with IT**  
 📍 Kenya 🇰🇪  
 
-I transform raw, messy data into **clear, decision-ready insights** using Python, SQL, Excel, and statistical analysis, with a strong focus on **data quality, EDA, and business reporting**.
+I transform raw, messy data into clear, decision-ready insights using Python, SQL, Excel, and statistical analysis. I focus on data quality, exploratory data analysis (EDA), and translating analytical results into practical business insights that support decision-making.
+
 
 ---
 
 ## 🔧 Skills & Tools
 
-**Programming & Querying**  
-- Python, SQL  
+**Programming & Querying**
+- Python, SQL
 
-**Data Analysis**  
-- Pandas, NumPy, Excel  
+**Data Analysis**
+- Pandas, NumPy, Excel
 
-**Visualization & Reporting**  
-- Matplotlib, Seaborn, Excel Charts  
+**Visualization & Reporting**
+- Matplotlib, Seaborn, Excel Charts
 
-**Statistics**  
-- Descriptive statistics, probability, analytical reasoning  
+**Statistics**
+- Descriptive statistics, probability, analytical reasoning
 
-**Workflow & Version Control**  
-- Git, GitHub, Jupyter Notebook  
+**Workflow & Version Control**
+- Git, GitHub, Jupyter Notebook
 
 ---
 
 ## 📌 Featured Projects (Mini Case Studies)
+
+Each project below follows a real-world data analysis workflow: data cleaning → exploration → analysis → insight generation.
 
 ### 🔹 Python Data Analysis Projects
 **Problem:** Raw data provides little value without structured analysis.  
@@ -61,19 +63,6 @@ I transform raw, messy data into **clear, decision-ready insights** using Python
 - Identified patterns, trends, and actionable insights  
 
 👉 **Repository:** `python-data-analysis-projects`
-
----
-
-### 🔹 Python Data Cleaning Project
-**Problem:** Real-world datasets contain missing values, duplicates, and inconsistencies.  
-**Approach:**  
-- Cleaned raw datasets using Pandas  
-- Handled missing values, duplicates, incorrect data types, and formatting  
-
-**Outcome:**  
-- Produced clean, analysis-ready datasets  
-
-👉 **Repository:** `python-data-cleaning-project`
 
 ---
 
@@ -117,4 +106,5 @@ I transform raw, messy data into **clear, decision-ready insights** using Python
 
 ---
 
-⭐ This GitHub profile documents my learning journey and showcases **practical, recruiter-ready projects** aligned with entry-level and junior data analyst roles.
+📌 This GitHub profile is actively maintained and reflects my continuous learning and practical application of data analysis skills.
+
