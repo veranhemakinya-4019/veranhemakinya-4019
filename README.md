@@ -62,7 +62,7 @@ Each project below follows a real-world data analysis workflow: data cleaning �
 **Outcome:**  
 - Identified patterns, trends, and actionable insights  
 
-👉 **Repository:** `python-data-analysis-projects`
+👉 **Repository:** `Python-Data-Analysis-Sales-Performance-Insights`
 
 ---
 
