@@ -1,110 +1,157 @@
-# Vera Nhema Kinya  
-**Junior Data Analyst | Python • SQL • Excel**  
-📊 Data Cleaning, Analysis & Visualization  
-🎯 Open to Junior Data Analyst, Data Assistant & Graduate Analyst roles
----
+# 👋 Vera Nhema Kinya  
+### 💼 Junior Data Analyst | Python • SQL • Excel  
 
-## 🚀 Portfolio Summary (30-Second Read)
+📊 Data Cleaning • Analysis • Visualization  
+🎯 Open to Junior Data Analyst | Data Assistant | Graduate Analyst Roles  
 
-I am a **Junior Data Analyst** with a strong foundation in **Applied Statistics and IT**.  
-My portfolio demonstrates hands-on experience in:
-
-- Cleaning and preparing real-world datasets  
-- Performing exploratory data analysis (EDA)  
-- Writing SQL queries to answer business questions  
-- Creating clear visualizations and Excel reports  
-- Translating data into actionable business insights  
-
-All projects follow a **practical, job-oriented data analysis workflow**.
-
----
-
-## 👋 About Me
-
-🎓 **BSc. Applied Statistics with IT**  
 📍 Kenya 🇰🇪  
-
-I transform raw, messy data into clear, decision-ready insights using Python, SQL, Excel, and statistical analysis. I focus on data quality, exploratory data analysis (EDA), and translating analytical results into practical business insights that support decision-making.
-
-
----
-
-## 🔧 Skills & Tools
-
-**Programming & Querying**
-- Python, SQL
-
-**Data Analysis**
-- Pandas, NumPy, Excel
-
-**Visualization & Reporting**
-- Matplotlib, Seaborn, Excel Charts
-
-**Statistics**
-- Descriptive statistics, probability, analytical reasoning
-
-**Workflow & Version Control**
-- Git, GitHub, Jupyter Notebook
-
----
-
-## 📌 Featured Projects (Mini Case Studies)
-
-Each project below follows a real-world data analysis workflow: data cleaning → exploration → analysis → insight generation.
-
-### 🔹 Python Data Analysis Projects
-**Problem:** Raw data provides little value without structured analysis.  
-**Approach:**  
-- Conducted exploratory data analysis (EDA) using Pandas and NumPy  
-- Generated summary statistics  
-- Built visualizations with Matplotlib and Seaborn  
-
-**Outcome:**  
-- Identified patterns, trends, and actionable insights  
-
-👉 **Repository:** `Python-Data-Analysis-Sales-Performance-Insights`
-
----
-
-### 🔹 SQL Data Analysis Practice
-**Problem:** Business questions require efficient querying.  
-**Approach:**  
-- Wrote SQL queries using filtering, joins, aggregations, and grouping  
-- Simulated real business reporting scenarios  
-
-**Outcome:**  
-- Extracted meaningful insights directly from databases  
-
-👉 **Repository:** `sql-data-analysis-practice`
-
----
-
-## 💡 What I Can Do
-
-- Clean and preprocess real-world datasets  
-- Perform exploratory data analysis (EDA)  
-- Write SQL queries to answer business questions  
-- Create clear visualizations and Excel reports  
-- Translate data findings into actionable insights  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL (CTEs, window functions)  
-- Business-focused dashboard design  
-- Statistical analysis for real-world decision-making  
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **veranhemakinya@gmail.com**  
-💼 LinkedIn: https://linkedin.com/in/vera-data-analyst  
+📧 veranhemakinya@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/vera-data-analyst  
 💬 Telegram: https://t.me/vera_Data_analyst  
-🐦 X (Twitter): **@veranhema**
+🐦 X: @veranhema  
 
 ---
 
-📌 This GitHub profile is actively maintained and reflects my continuous learning and practical application of data analysis skills.
+# 🚀 Portfolio Summary (30-Second Read)
 
+I am a **Junior Data Analyst** with a strong foundation in **Applied Statistics & IT**, focused on turning raw data into actionable insights.
+
+✔ Clean and prepare real-world datasets  
+✔ Perform exploratory data analysis (EDA)  
+✔ Write SQL queries to solve business problems  
+✔ Build dashboards in Excel & Power BI  
+✔ Communicate insights clearly for decision-making  
+
+📌 All projects follow a **real-world workflow**:  
+**Data Cleaning → Exploration → Analysis → Insights → Visualization**
+
+---
+
+# 👩‍💻 About Me
+
+🎓 BSc. Applied Statistics with IT  
+
+I specialize in transforming messy datasets into structured, meaningful insights using:
+
+- Python (Pandas, NumPy)  
+- SQL (PostgreSQL)  
+- Excel & Power BI  
+
+I focus on **data quality, analytical thinking, and business-driven insights** — not just tools.
+
+---
+
+# 🛠 Skills & Tools
+
+## 🔹 Programming & Querying
+- Python  
+- SQL (Joins, Aggregations, Subqueries)
+
+## 🔹 Data Analysis
+- Pandas, NumPy  
+- Excel (Pivot Tables, KPIs, Data Cleaning)
+
+## 🔹 Data Visualization
+- Power BI  
+- Matplotlib, Seaborn  
+- Excel Dashboards  
+
+## 🔹 Statistics
+- Descriptive Statistics  
+- Probability  
+- Analytical Thinking  
+
+## 🔹 Workflow & Tools
+- Git & GitHub  
+- Jupyter Notebook  
+
+---
+
+# 📌 Featured Projects (Mini Case Studies)
+
+Each project simulates a **real business scenario** and follows an end-to-end workflow.
+
+---
+
+## 📊 Retail Sales Performance Analysis
+**Tools:** SQL • Python • Excel • Power BI  
+
+**Problem:** Businesses need clear insights into sales performance and profitability  
+
+**Approach:**
+- Cleaned and structured raw sales data  
+- Performed SQL-based business analysis  
+- Built interactive dashboards  
+
+**Key Insights:**
+- West region drives highest revenue  
+- Technology category is most profitable  
+- Discounts negatively impact profit  
+
+👉 https://github.com/veranhemakinya-4019/retail-sales-performance-analysis  
+
+---
+
+## 🔁 Customer Retention Cohort Analysis
+**Tools:** SQL • Python • Power BI  
+
+**Problem:** Understanding customer retention and churn patterns  
+
+**Approach:**
+- Built cohort tables using SQL  
+- Analyzed retention rates over time  
+- Visualized trends in Power BI  
+
+**Outcome:**
+- Identified retention drop-off points  
+- Highlighted opportunities to improve customer loyalty  
+
+👉 https://github.com/veranhemakinya-4019/customer-retention-cohort-analysis  
+
+---
+
+## 👥 Customer Segmentation Analysis
+**Tools:** Python • SQL  
+
+**Problem:** Businesses need to understand different customer groups  
+
+**Approach:**
+- Cleaned and analyzed customer data  
+- Applied segmentation techniques  
+- Generated actionable insights  
+
+👉 https://github.com/veranhemakinya-4019/sales-performance-customer-segmentation-analysis  
+
+---
+
+# 💡 What I Can Do
+
+✔ Clean and preprocess messy datasets  
+✔ Perform exploratory data analysis (EDA)  
+✔ Write SQL queries for business insights  
+✔ Build dashboards (Excel & Power BI)  
+✔ Communicate data findings clearly  
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL (CTEs, Window Functions)  
+- Dashboard design for business users  
+- Statistical analysis for decision-making  
+
+---
+
+# 📫 Let’s Connect
+
+I’m actively looking for **entry-level Data Analyst opportunities and internships**.
+
+- 📧 Email: veranhemakinya@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/vera-data-analyst  
+- 💬 Telegram: https://t.me/vera_Data_analyst  
+
+---
+
+# ⭐ About This Profile
+
+This GitHub profile is **actively maintained** and showcases my continuous growth in data analytics through real-world projects.
